@@ -1,6 +1,6 @@
 # Hi there 👋, I'm MAKHKHAS Zakaria!
 
-I'm a passionate software developer with a keen interest in machine learning and automation. Currently, I am sharpening my skills in low-level languages.
+I'm a passionate software developer with a keen interest in machine learning and automation.
 
 ## 🎓 Education
 
